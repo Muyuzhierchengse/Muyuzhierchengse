@@ -1,5 +1,6 @@
-## Hi there 👋
+##  ✨Have a nice day!✨
 
+I'm a prospective PhD student specializing in **_computation theory_**, with research interests spanning mathematics, computation, logic, and consciousness.
 <!--
 **Muyuzhierchengse/Muyuzhierchengse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
