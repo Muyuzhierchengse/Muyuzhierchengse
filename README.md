@@ -3,10 +3,12 @@
 I'm a prospective PhD student specializing in **_computation theory_**, with research interests spanning mathematics, computation, logic, and consciousness.
 
 I have previously worked on specific areas including: 
-- Generative Adversarial Networks (GANs)
-- Autonomous System (Control, Navigation, Planning)
-- Kolmogorov-Arnold Networks (KANs)
-- Quantum Circuit Compilation
+- Artificial Intelligence
+  - Generative Adversarial Networks (GANs)
+  - Autonomous System (Control, Navigation, Planning)
+  - Kolmogorov-Arnold Networks (KANs)
+- Quantum Computing
+  - Quantum Circuit Compilation
 
 
 <!--
