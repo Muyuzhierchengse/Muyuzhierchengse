@@ -1,6 +1,6 @@
 ##  ✨Have a nice day!✨
 
-I am an aspiring PhD student with a strong interest in computation theory. My research interests lie at the intersection of mathematics, computation, logic, and consciousness.
+I am an aspiring PhD student with a strong interest in computation theory. My research interests lie at the nature of mathematics and computation, and their convergence with logic and consciousness.
 
 I have previously worked on specific areas including: 
 - Artificial Intelligence
