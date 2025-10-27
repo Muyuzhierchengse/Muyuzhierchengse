@@ -1,17 +1,19 @@
 ##  ✨Have a nice day!✨
 
-I am an aspiring PhD student with a strong interest in computation theory. My research interests lie at the nature of mathematics and computation, and their convergence with logic and consciousness.
+I am an aspiring PhD student with a strong interest in computation theory. My research interests lie at the nature of mathematics and computation, and their convergence with logic, consciousness and intelligence.
 
-I have previously worked on specific areas including: 
-- Artificial Intelligence
-  - Generative Adversarial Networks (GANs)
-  - Autonomous System (Control, Navigation, Planning)
-  - Kolmogorov-Arnold Networks (KANs)
-  - World Models
-- Quantum Computing
+I have previously worked on specific areas including:
+- Intelligence
+  - Artificial Intelligence
+    - Generative Adversarial Networks (GANs)
+    - Autonomous System (Control, Navigation, Planning)
+    - Kolmogorov-Arnold Networks (KANs)
+    - World Models
+- Computation
+  - Quantum Computing
   - Quantum Circuit Compilation
 
-[Homepage](https://muyuzhierchengse.github.io/)
+Explore more on: [Homepage](https://muyuzhierchengse.github.io/)
 
 <!--
 **Muyuzhierchengse/Muyuzhierchengse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
