@@ -11,7 +11,9 @@ I have previously worked on specific areas including:
     - World Models
 - Computation
   - Quantum Computing
-  - Quantum Circuit Compilation
+    - Quantum Circuit Compilation
+  - Complexity
+  - Biocomputing
 
 Explore more on: [Homepage](https://muyuzhierchengse.github.io/)
 
