@@ -14,7 +14,7 @@ I have previously worked on specific areas including:
     - Quantum Circuit Compilation
   - Complexity
   - Biocomputing
-_
+
 Explore more on: [Homepage](https://muyuzhierchengse.github.io/) (Under Construction)
 
 _Buried in the most secret recesses of my soul lies a fervent, almost delirious longing: to build a time machine._
