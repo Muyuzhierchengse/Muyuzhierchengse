@@ -14,6 +14,7 @@ I have previously worked on specific areas including:
     - Quantum Circuit Compilation
   - Complexity
   - Biocomputing
+  - Hypercomputing
 
 Explore more on: [Homepage](https://muyuzhierchengse.github.io/) (Under Construction)
 
