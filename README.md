@@ -8,6 +8,8 @@ I have previously worked on specific areas including:
     - Generative Adversarial Networks (GANs)
     - Autonomous System (Control, Navigation, Planning)
     - Kolmogorov-Arnold Networks (KANs)
+    - Graph Neural Networks (GNNs)
+    - Interpretability
 - Computation
   - Quantum Computing
     - Quantum Circuit Compilation
