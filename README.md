@@ -1,38 +1,108 @@
-##  ✨Have a nice day!✨
+<div align="center" style="font-family: 'Times New Roman', serif; color: #2a2a2a;">
 
-I am an aspiring PhD student with a strong interest in Computation Theory & Theoretical Computer Science. My research interests lie at the nature of mathematics and computation, and their convergence with logic, consciousness and intelligence.
+<img src="https://user-images.githubusercontent.com/35688185/117543795-2e1c8480-b02d-11eb-8f54-78cb1f83e57a.png" width="50%">
 
-I have previously worked on specific areas including:
-- Intelligence
-  - Artificial Intelligence
-    - Generative Adversarial Networks (GANs)
-    - Autonomous System (Control, Navigation, Planning)
-    - Kolmogorov-Arnold Networks (KANs)
-    - Graph Neural Networks (GNNs)
-    - Interpretability
-- Computation
-  - Quantum Computing
-    - Quantum Circuit Compilation
-  - Complexity
-  - Biocomputing
-  - Hypercomputing
+<br><br>
 
-Explore more on: [Homepage](https://muyuzhierchengse.github.io/) (Under Construction)
+## Z H I M U &nbsp; Y A N G
 
-_Buried in the most secret recesses of my soul lies a fervent, almost delirious longing: to build a time machine._
+<br>
 
+<img src="https://user-images.githubusercontent.com/35688185/117543834-49878f80-b02d-11eb-903a-12c62542c454.png" width="30px">
+<br>
+<em style="font-size: 1.1em; letter-spacing: 0.5px;">“ Buried in the most secret recesses of my soul lies a fervent, <br> almost delirious longing: to build a time machine. ”</em>
+<br>
+<img src="https://user-images.githubusercontent.com/35688185/117543834-49878f80-b02d-11eb-903a-12c62542c454.png" width="30px" style="transform: scaleY(-1);">
 
-<!--
-**Muyuzhierchengse/Muyuzhierchengse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br>
 
-Here are some ideas to get you started:
+Aspiring PhD Student in Theoretical Computer Science.
+<br>
+Exploring the convergence of mathematics, logic, and the nature of intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+[ 🏛️ Homepage ](https://muyuzhierchengse.github.io/) &nbsp; ∾ &nbsp; [ 📜 Google Scholar ](#) &nbsp; ∾ &nbsp; [ ✒️ Email ](mailto:your-email@example.com)
+
+<br><br><br>
+
+<img src="https://user-images.githubusercontent.com/35688185/117543795-2e1c8480-b02d-11eb-8f54-78cb1f83e57a.png" width="80%">
+
+<br><br>
+
+### ⚜️ C O M P E N D I U M &nbsp; O F &nbsp; S T U D I E S ⚜️
+
+<br>
+
+<div style="width: 80%; border-bottom: 1px solid #e0e0e0; margin-bottom: 20px; padding-bottom: 10px;">
+  <h4 style="letter-spacing: 2px; margin-bottom: 10px;">I . &nbsp; I N T E L L I G E N C E</h4>
+</div>
+
+◈ <b>Artificial Intelligence Architectures</b>
+<br>
+Generative Adversarial Networks (GANs) · Graph Neural Networks (GNNs) · Kolmogorov-Arnold Networks (KANs)
+
+<br>
+◈ <b>Autonomous Systems & Interpretability</b>
+<br>
+Control, Navigation, Planning · Explainable AI Models
+
+<br><br>
+
+<div style="width: 80%; border-bottom: 1px solid #e0e0e0; margin-bottom: 20px; padding-bottom: 10px;">
+  <h4 style="letter-spacing: 2px; margin-bottom: 10px;">II . &nbsp; C O M P U T A T I O N</h4>
+</div>
+
+<i>The Theoretical Bedrock</i>
+<br>
+◈ <b>Computational Complexity</b>
+
+<br>
+<i>The Quantum Realm</i>
+<br>
+◈ <b>Quantum Computing</b> &nbsp; ∾ &nbsp; <b>Quantum Circuit Compilation</b>
+
+<br>
+<i>Frontier Paradigms</i>
+<br>
+◈ <b>Biocomputing</b> &nbsp; ∾ &nbsp; <b>Hypercomputing</b>
+
+<br><br>
+
+<div style="width: 80%; border-bottom: 1px solid #e0e0e0; margin-bottom: 20px; padding-bottom: 10px;">
+  <h4 style="letter-spacing: 2px; margin-bottom: 10px;">III . &nbsp; F O U N D A T I O N S</h4>
+</div>
+
+◈ <b>Mathematical Structures & Logic</b>
+<br>
+Graph Theory · Algorithmic Game Theory
+
+<br><br><br>
+
+<img src="https://user-images.githubusercontent.com/35688185/117543830-47bcac80-b02d-11eb-919e-436d8392665e.png" width="40%">
+
+<br>
+
+<svg width="400" height="40" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .breathing-text {
+      font-family: serif;
+      font-style: italic;
+      font-size: 14px;
+      fill: #555;
+      animation: breathe 6s ease-in-out infinite;
+    }
+    @keyframes breathe {
+      0%, 100% { opacity: 0.7; }
+      50% { opacity: 1; }
+    }
+  </style>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="breathing-text">
+    Simplicity is the ultimate sophistication.
+  </text>
+</svg>
+
+<br>
+<br>
+
+</div>
