@@ -1,6 +1,8 @@
 <div align="center" style="font-family: 'Times New Roman', serif; color: #2a2a2a;">
 
-<img src="https://user-images.githubusercontent.com/35688185/117543795-2e1c8480-b02d-11eb-8f54-78cb1f83e57a.png" width="50%">
+<br>
+
+<div style="font-size: 24px; color: #555;">༺ ❖ ༻</div>
 
 <br><br>
 
@@ -8,11 +10,11 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/35688185/117543834-49878f80-b02d-11eb-903a-12c62542c454.png" width="30px">
+<div style="font-size: 18px; color: #777;">❧</div>
 <br>
 <em style="font-size: 1.1em; letter-spacing: 0.5px;">“ Buried in the most secret recesses of my soul lies a fervent, <br> almost delirious longing: to build a time machine. ”</em>
-<br>
-<img src="https://user-images.githubusercontent.com/35688185/117543834-49878f80-b02d-11eb-903a-12c62542c454.png" width="30px" style="transform: scaleY(-1);">
+<br><br>
+<div style="font-size: 18px; color: #777; transform: rotate(180deg);">❧</div>
 
 <br><br>
 
@@ -26,7 +28,7 @@ Exploring the convergence of mathematics, logic, and the nature of intelligence.
 
 <br><br><br>
 
-<img src="https://user-images.githubusercontent.com/35688185/117543795-2e1c8480-b02d-11eb-8f54-78cb1f83e57a.png" width="80%">
+<div style="letter-spacing: 4px; color: #888;">☙ ═════════════════════ ❧</div>
 
 <br><br>
 
@@ -61,8 +63,10 @@ Control, Navigation, Planning · Explainable AI Models
 <i>The Quantum Realm</i>
 <br>
 ◈ <b>Quantum Computing</b> &nbsp; ∾ &nbsp; <b>Quantum Circuit Compilation</b>
-
 <br>
+<span style="font-size: 0.9em; color: #555;"><i>Investigating circuit defects & structural optimization</i></span>
+
+<br><br>
 <i>Frontier Paradigms</i>
 <br>
 ◈ <b>Biocomputing</b> &nbsp; ∾ &nbsp; <b>Hypercomputing</b>
@@ -79,7 +83,7 @@ Graph Theory · Algorithmic Game Theory
 
 <br><br><br>
 
-<img src="https://user-images.githubusercontent.com/35688185/117543830-47bcac80-b02d-11eb-919e-436d8392665e.png" width="40%">
+<div style="font-size: 20px; color: #555;">✥</div>
 
 <br>
 
