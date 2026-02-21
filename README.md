@@ -12,7 +12,7 @@
 
 Aspiring PhD Student in Theoretical Computer Science
 <br>
-[ Homepage ](https://muyuzhierchengse.github.io/) &nbsp; ∾ &nbsp; [ Google Scholar ](#) &nbsp; ∾ &nbsp; [ Email ](mailto:your-email@example.com)
+[ Homepage ](https://muyuzhierchengse.github.io/) &nbsp; ∾ &nbsp; [ Google Scholar ](https://scholar.google.cz/citations?user=kn206EMAAAAJ&hl=zh-CN) &nbsp; ∾ &nbsp; [ Email ](mailto:muyuzhierchengse@gmail.com)
 
 <br><br><br>
 
