@@ -6,7 +6,7 @@
 
 <br>
 
-<em style="color: #555;">“ Buried in the most secret recesses of my soul lies a fervent, <br> almost delirious longing: to build a time machine. ”</em>
+<em style="color: #555;">“Wir müssen wissen — wir werden wissen”</em>
 
 <br><br>
 
