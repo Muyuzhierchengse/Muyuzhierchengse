@@ -10,7 +10,13 @@
 
 <br><br>
 
-Aspiring PhD Student in Theoretical Computer Science
+_What exactly is computation？_
+
+_where are its boundaries？_
+
+_Can we transcend them?_
+
+Aspiring PhD Student in Theoretical Computer Science. Exploring the fundamental nature of computation and its ultimate limits, seeking to unlock a greater computational frontier that advances the future possibilities of all humankind.
 <br>
 [ Homepage ](https://muyuzhierchengse.github.io/) &nbsp; ∾ &nbsp; [ Google Scholar ](https://scholar.google.cz/citations?user=kn206EMAAAAJ&hl=zh-CN) &nbsp; ∾ &nbsp; [ Email ](mailto:muyuzhierchengse@gmail.com)
 
