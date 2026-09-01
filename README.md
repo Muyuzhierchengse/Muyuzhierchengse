@@ -10,15 +10,12 @@
 
 <br><br>
 
-_What exactly is computation？_
+Research Assistant at the [Quantum AI Research Lab](https://www.quair.group/author/zhimu-yang/), HKUST(GZ).  
+Interested in the foundations of computation, quantum computing, and interpretable machine learning.
 
-_where are its boundaries？_
-
-_Can we transcend them?_
-
-Aspiring PhD Student in Theoretical Computer Science. Exploring the fundamental nature of computation and its ultimate limits, seeking to unlock a greater computational frontier that advances the future possibilities of all humankind.
 <br>
-[ Homepage ](https://muyuzhierchengse.github.io/) &nbsp; ∾ &nbsp; [ Google Scholar ](https://scholar.google.cz/citations?user=kn206EMAAAAJ&hl=zh-CN) &nbsp; ∾ &nbsp; [ Email ](mailto:muyuzhierchengse@gmail.com)
+
+[ Homepage ](https://muyuzhierchengse.github.io/) &nbsp; ∾ &nbsp; [ Google Scholar ](https://scholar.google.cz/citations?user=kn206EMAAAAJ&hl=en) &nbsp; ∾ &nbsp; [ Email ](mailto:muyuzhierchengse@gmail.com)
 
 <br><br><br>
 
@@ -26,73 +23,65 @@ Aspiring PhD Student in Theoretical Computer Science. Exploring the fundamental 
 
 <br><br>
 
-### R E S E A R C H &nbsp; P O R T F O L I O
+### R E S E A R C H &nbsp; I N T E R E S T S
 
-<br><br>
-
-#### I . &nbsp; I N T E L L I G E N C E
-
-<div align="left" style="width: 75%; margin: 0 auto;">
-
-◈ **Artificial Intelligence** <br>
-<span style="color: #555; font-size: 0.95em;">Generative Adversarial Networks (GANs) &nbsp;·&nbsp; Graph Neural Networks (GNNs) &nbsp;·&nbsp; Kolmogorov-Arnold Networks (KANs)</span>
 <br>
-<div style="margin-top: 10px; margin-bottom: 5px; font-size: 0.9em; padding-left: 18px; border-left: 1px solid #ccc;">
-  ⸰ &nbsp; [ Note ] &nbsp; <i>On the Interpretability and Logic Convergence of GNNs</i> &nbsp; ∾ &nbsp; [ Read ](#)
-</div>
 
-<br><br>
+<div align="left" style="width: 78%; margin: 0 auto;">
 
-◈ **Autonomous Systems & Interpretability** <br>
-<span style="color: #555; font-size: 0.95em;">Control &nbsp;·&nbsp; Navigation &nbsp;·&nbsp; Planning &nbsp;·&nbsp; Explainable AI</span>
+◈ **Foundations of Computation**  
+<span style="color: #555; font-size: 0.95em;">Algorithms &nbsp;·&nbsp; Complexity &nbsp;·&nbsp; Models and limits of computation</span>
 
-</div>
-
-<br><br><br>
-
-#### II . &nbsp; C O M P U T A T I O N
-
-<div align="left" style="width: 75%; margin: 0 auto;">
-
-◈ **Quantum Computing** <br>
-<span style="color: #555; font-size: 0.95em;">Quantum Circuit Compilation</span>
 <br>
-<div style="margin-top: 10px; margin-bottom: 5px; font-size: 0.9em; padding-left: 18px; border-left: 1px solid #ccc;">
-  ⸰ &nbsp; [ Manuscript ] &nbsp; <i>Investigating Defects and Structural Optimization in Quantum Circuit Compilation</i> &nbsp; ∾ &nbsp; [ Draft ](#)
-</div>
 
-<br><br>
+◈ **Quantum Computing**  
+<span style="color: #555; font-size: 0.95em;">Quantum circuit compilation &nbsp;·&nbsp; Architecture-aware optimization</span>
 
-◈ **Algorithm & Complexity** <br>
-<span style="color: #555; font-size: 0.95em;">Algorithm &nbsp;·&nbsp; Computational Complexity</span>
+<br>
 
-<br><br>
-
-◈ **Unconventional Computing** <br>
-<span style="color: #555; font-size: 0.95em;">Biocomputing &nbsp;·&nbsp; Hypercomputing</span>
+◈ **Interpretable Machine Learning**  
+<span style="color: #555; font-size: 0.95em;">Graph neural networks &nbsp;·&nbsp; Attribution &nbsp;·&nbsp; Kolmogorov–Arnold networks</span>
 
 </div>
 
 <br><br><br>
 
-#### III . &nbsp; M A T H E M A T I C S &nbsp; & &nbsp; F O U N D A T I O N S
+### P U B L I C A T I O N S
 
-<div align="left" style="width: 75%; margin: 0 auto;">
+<br>
 
-◈ **Graph Theory** <br>
-<div style="margin-top: 10px; margin-bottom: 5px; font-size: 0.9em; padding-left: 18px; border-left: 1px solid #ccc;">
-  ⸰ &nbsp; [ Notes ] &nbsp; <i>Fundamentals: Directed Graphs, Degrees, Paths, and Weights</i> &nbsp; ∾ &nbsp; [ Read ](#) <br>
-</div>
+<div align="left" style="width: 78%; margin: 0 auto;">
 
-<br><br>
+**2026**
 
-◈ **Algorithmic Game Theory** <br>
+◈ Bizu Feng, **Zhimu Yang**, Shuming Wang, Shaode Yu, Yuan Cheng, Xiaojun Qian, and Zixin Hu.  
+*A Polynomial Architecture–Attribution Co-Design Framework for Exact Aumann–Shapley Attribution in GNNs.*  
+arXiv preprint. &nbsp; [ Paper ](https://arxiv.org/abs/2607.21094)
+
+<br>
+
+◈ Bizu Feng, **Zhimu Yang**, Shaode Yu, and Zixin Hu.  
+*FSX: Message Flow Sensitivity Enhanced Structural Explainer for Graph Neural Networks.*  
+arXiv preprint. &nbsp; [ Paper ](https://arxiv.org/abs/2601.14730)
+
+<br>
+
+**2025**
+
+◈ Shaode Yu, Ze Chen, **Zhimu Yang**, Jiacheng Gu, Bizu Feng, and Qiurui Sun.  
+*Exploring Kolmogorov–Arnold Networks for Realistic Image Sharpness Assessment.*  
+ICASSP 2025. &nbsp; [ Paper ](https://doi.org/10.1109/ICASSP49660.2025.10890447) &nbsp; ∾ &nbsp; [ arXiv ](https://arxiv.org/abs/2409.07762)
 
 </div>
 
 <br><br><br>
 
-</div> <div align="center">
 <div style="letter-spacing: 4px; color: #888;">☙ ═════════════════════ ❧</div>
+
+<br>
+
+<sub>For the complete and most recent publication record, see [Google Scholar](https://scholar.google.cz/citations?user=kn206EMAAAAJ&hl=en).</sub>
+
+<br><br>
 
 </div>
