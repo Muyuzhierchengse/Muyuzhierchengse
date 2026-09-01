@@ -23,7 +23,7 @@
 <sub>OF COMPUTATION</sub>
 
 </td>
-<td width="72%" valign="top">
+<td width="72%" align="center" valign="top">
 
 ◈ &nbsp; <strong>Algorithms & Complexity</strong><br>
 <sub>Algorithms &nbsp;·&nbsp; Computational Complexity</sub>
@@ -49,7 +49,7 @@
 <sub>COMPUTATION</sub>
 
 </td>
-<td valign="middle">
+<td align="center" valign="middle">
 
 ◈ &nbsp; <strong>Quantum Computing</strong><br>
 <sub>Quantum Circuit Compilation</sub>
@@ -65,7 +65,7 @@
 <sub>& AUTONOMOUS SYSTEMS</sub>
 
 </td>
-<td valign="top">
+<td align="center" valign="top">
 
 ◈ &nbsp; <strong>Artificial Intelligence</strong><br>
 <sub>Generative Adversarial Networks &nbsp;·&nbsp; Graph Neural Networks &nbsp;·&nbsp; Kolmogorov–Arnold Networks</sub>
