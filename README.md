@@ -4,13 +4,11 @@
 
 <em>“Wir müssen wissen — wir werden wissen”</em>
 
-[ Homepage ](https://muyuzhierchengse.github.io/) &nbsp; · &nbsp; [ Google Scholar ](https://scholar.google.cz/citations?user=kn206EMAAAAJ&hl=en) &nbsp; · &nbsp; [ Email ](mailto:muyuzhierchengse@gmail.com)
+[ Homepage ](https://muyuzhierchengse.github.io/) &nbsp; ∾ &nbsp; [ Google Scholar ](https://scholar.google.cz/citations?user=kn206EMAAAAJ&hl=en) &nbsp; ∾ &nbsp; [ Email ](mailto:muyuzhierchengse@gmail.com)
 
-</div>
+<br>
 
----
-
-<div align="center">
+<span>☙ ──────────────────── ❧</span>
 
 ### R E S E A R C H &nbsp; I N T E R E S T S
 
@@ -18,25 +16,76 @@
 
 <table>
 <tr>
-<td width="31%" valign="top"><strong>I. Foundations of Computation</strong></td>
-<td width="69%" valign="top">
-<strong>Theory</strong> — Algorithms · Computational Complexity<br>
-<strong>Structures</strong> — Graph Theory · Algorithmic Game Theory<br>
-<strong>Beyond Conventional Models</strong> — Biocomputing · Hypercomputing
+<td width="28%" align="center" valign="middle">
+
+<strong>Ⅰ</strong><br>
+<em>F O U N D A T I O N S</em><br>
+<sub>OF COMPUTATION</sub>
+
+</td>
+<td width="72%" valign="top">
+
+◈ &nbsp; <strong>Algorithms & Complexity</strong><br>
+<sub>Algorithms &nbsp;·&nbsp; Computational Complexity</sub>
+
+<br><br>
+
+◈ &nbsp; <strong>Discrete Structures</strong><br>
+<sub>Graph Theory &nbsp;·&nbsp; Algorithmic Game Theory</sub>
+
+<br><br>
+
+◈ &nbsp; <strong>Unconventional Computing</strong><br>
+<sub>Biocomputing &nbsp;·&nbsp; Hypercomputing</sub>
+
 </td>
 </tr>
+
 <tr>
-<td valign="top"><strong>II. Quantum Computation</strong></td>
-<td valign="top">
-<strong>Compilation</strong> — Quantum Circuit Compilation
+<td align="center" valign="middle">
+
+<strong>Ⅱ</strong><br>
+<em>Q U A N T U M</em><br>
+<sub>COMPUTATION</sub>
+
+</td>
+<td valign="middle">
+
+◈ &nbsp; <strong>Quantum Computing</strong><br>
+<sub>Quantum Circuit Compilation</sub>
+
 </td>
 </tr>
+
 <tr>
-<td valign="top"><strong>III. Intelligence & Autonomous Systems</strong></td>
+<td align="center" valign="middle">
+
+<strong>Ⅲ</strong><br>
+<em>I N T E L L I G E N C E</em><br>
+<sub>& AUTONOMOUS SYSTEMS</sub>
+
+</td>
 <td valign="top">
-<strong>Learning</strong> — Generative Adversarial Networks · Graph Neural Networks · Kolmogorov–Arnold Networks<br>
-<strong>Interpretability</strong> — Explainable Artificial Intelligence<br>
-<strong>Autonomy</strong> — Control · Navigation · Planning
+
+◈ &nbsp; <strong>Artificial Intelligence</strong><br>
+<sub>Generative Adversarial Networks &nbsp;·&nbsp; Graph Neural Networks &nbsp;·&nbsp; Kolmogorov–Arnold Networks</sub>
+
+<br><br>
+
+◈ &nbsp; <strong>Interpretability</strong><br>
+<sub>Explainable Artificial Intelligence</sub>
+
+<br><br>
+
+◈ &nbsp; <strong>Autonomous Systems</strong><br>
+<sub>Control &nbsp;·&nbsp; Navigation &nbsp;·&nbsp; Planning</sub>
+
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<span>☙ ──────────────────── ❧</span>
+
+</div>
