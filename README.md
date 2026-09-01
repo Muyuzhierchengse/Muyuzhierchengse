@@ -10,7 +10,6 @@
 
 <br><br>
 
-Research Assistant at the [Quantum AI Research Lab](https://www.quair.group/author/zhimu-yang/), HKUST(GZ).  
 Interested in the foundations of computation, quantum computing, and interpretable machine learning.
 
 <br>
@@ -77,10 +76,6 @@ ICASSP 2025. &nbsp; [ Paper ](https://doi.org/10.1109/ICASSP49660.2025.10890447)
 <br><br><br>
 
 <div style="letter-spacing: 4px; color: #888;">☙ ═════════════════════ ❧</div>
-
-<br>
-
-<sub>For the complete and most recent publication record, see [Google Scholar](https://scholar.google.cz/citations?user=kn206EMAAAAJ&hl=en).</sub>
 
 <br><br>
 
