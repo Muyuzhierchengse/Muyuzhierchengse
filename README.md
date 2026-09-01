@@ -18,55 +18,25 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-<div align="center"><strong>I. FOUNDATIONS</strong></div>
-
-<br>
-
-<strong>Algorithms & Complexity</strong><br>
-<sub>Algorithms · Computational Complexity</sub>
-
-<br><br>
-
-<strong>Discrete Structures</strong><br>
-<sub>Graph Theory · Algorithmic Game Theory</sub>
-
-<br><br>
-
-<strong>Unconventional Computing</strong><br>
-<sub>Biocomputing · Hypercomputing</sub>
-
+<td width="31%" valign="top"><strong>I. Foundations of Computation</strong></td>
+<td width="69%" valign="top">
+<strong>Theory</strong> — Algorithms · Computational Complexity<br>
+<strong>Structures</strong> — Graph Theory · Algorithmic Game Theory<br>
+<strong>Beyond Conventional Models</strong> — Biocomputing · Hypercomputing
 </td>
-<td width="33%" valign="top">
-
-<div align="center"><strong>II. QUANTUM</strong></div>
-
-<br>
-
-<strong>Quantum Computing</strong><br>
-<sub>Quantum Circuit Compilation</sub>
-
+</tr>
+<tr>
+<td valign="top"><strong>II. Quantum Computation</strong></td>
+<td valign="top">
+<strong>Compilation</strong> — Quantum Circuit Compilation
 </td>
-<td width="34%" valign="top">
-
-<div align="center"><strong>III. INTELLIGENCE</strong></div>
-
-<br>
-
-<strong>Artificial Intelligence</strong><br>
-<sub>GANs · GNNs · KANs</sub>
-
-<br><br>
-
-<strong>Interpretability</strong><br>
-<sub>Explainable Artificial Intelligence</sub>
-
-<br><br>
-
-<strong>Autonomous Systems</strong><br>
-<sub>Control · Navigation · Planning</sub>
-
+</tr>
+<tr>
+<td valign="top"><strong>III. Intelligence & Autonomous Systems</strong></td>
+<td valign="top">
+<strong>Learning</strong> — Generative Adversarial Networks · Graph Neural Networks · Kolmogorov–Arnold Networks<br>
+<strong>Interpretability</strong> — Explainable Artificial Intelligence<br>
+<strong>Autonomy</strong> — Control · Navigation · Planning
 </td>
 </tr>
 </table>
